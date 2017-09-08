@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: 8a64e806a84099840abfd8de3e1f9784
+timeCreated: 1481012538
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: earthbound characters-alpha_0
+    21300002: earthbound characters-alpha_1
+    21300004: earthbound characters-alpha_2
+    21300006: earthbound characters-alpha_3
+    21300008: earthbound characters-alpha_4
+    21300010: earthbound characters-alpha_5
+    21300012: earthbound characters-alpha_6
+    21300014: earthbound characters-alpha_7
+    21300016: earthbound characters-alpha_8
+    21300018: earthbound characters-alpha_9
+    21300020: earthbound characters-alpha_10
+    21300022: earthbound characters-alpha_11
+    21300024: earthbound characters-alpha_12
+    21300026: earthbound characters-alpha_13
+    21300028: earthbound characters-alpha_14
+    21300030: earthbound characters-alpha_15
+    21300032: earthbound characters-alpha_16
+    21300034: earthbound characters-alpha_17
+    21300036: earthbound characters-alpha_18
+    21300038: earthbound characters-alpha_19
+    21300040: earthbound characters-alpha_20
+    21300042: earthbound characters-alpha_21
+    21300044: earthbound characters-alpha_22
+    21300046: earthbound characters-alpha_23
+    21300048: earthbound characters-alpha_24
+    21300050: earthbound characters-alpha_25
+    21300052: earthbound characters-alpha_26
+    21300054: earthbound characters-alpha_27
+    21300056: earthbound characters-alpha_28
+    21300058: earthbound characters-alpha_29
+    21300060: earthbound characters-alpha_30
+    21300062: earthbound characters-alpha_31
+    21300064: earthbound characters-alpha_32
+    21300066: earthbound characters-alpha_33
+    21300068: earthbound characters-alpha_34
+    21300070: earthbound characters-alpha_35
+    21300072: earthbound characters-alpha_36
+    21300074: earthbound characters-alpha_37
+    21300076: earthbound characters-alpha_38
+    21300078: earthbound characters-alpha_39
+    21300080: earthbound characters-alpha_40
+    21300082: earthbound characters-alpha_41
+    21300084: earthbound characters-alpha_42
+    21300086: earthbound characters-alpha_43
+    21300088: earthbound characters-alpha_44
+    21300090: earthbound characters-alpha_45
+    21300092: earthbound characters-alpha_46
+    21300094: earthbound characters-alpha_47
+    21300096: earthbound characters-alpha_48
+    21300098: earthbound characters-alpha_49
+    21300100: earthbound characters-alpha_50
+    21300102: earthbound characters-alpha_51
+    21300104: earthbound characters-alpha_52
+    21300106: earthbound characters-alpha_53
+    21300108: earthbound characters-alpha_54
+    21300110: earthbound characters-alpha_55
+    21300112: earthbound characters-alpha_56
+    21300114: earthbound characters-alpha_57
+    21300116: earthbound characters-alpha_58
+    21300118: earthbound characters-alpha_59
+    21300120: earthbound characters-alpha_60
+    21300122: earthbound characters-alpha_61
+    21300124: earthbound characters-alpha_62
+    21300126: earthbound characters-alpha_63
+    21300128: earthbound characters-alpha_64
+    21300130: earthbound characters-alpha_65
+    21300132: earthbound characters-alpha_66
+    21300134: earthbound characters-alpha_67
+    21300136: earthbound characters-alpha_68
+    21300138: earthbound characters-alpha_69
+    21300140: earthbound characters-alpha_70
+    21300142: earthbound characters-alpha_71
+    21300144: earthbound characters-alpha_72
+    21300146: earthbound characters-alpha_73
+    21300148: earthbound characters-alpha_74
+    21300150: earthbound characters-alpha_75
+    21300152: earthbound characters-alpha_76
+    21300154: earthbound characters-alpha_77
+    21300156: earthbound characters-alpha_78
+    21300158: earthbound characters-alpha_79
+    21300160: earthbound characters-alpha_80
+    21300162: earthbound characters-alpha_81
+    21300164: earthbound characters-alpha_82
+    21300166: earthbound characters-alpha_83
+    21300168: earthbound characters-alpha_84
+    21300170: earthbound characters-alpha_85
+    21300172: earthbound characters-alpha_86
+    21300174: earthbound characters-alpha_87
+    21300176: earthbound characters-alpha_88
+    21300178: earthbound characters-alpha_89
+    21300180: earthbound characters-alpha_90
+    21300182: earthbound characters-alpha_91
+    21300184: earthbound characters-alpha_92
+    21300186: earthbound characters-alpha_93
+    21300188: earthbound characters-alpha_94
+    21300190: earthbound characters-alpha_95
+    21300192: earthbound characters-alpha_96
+    21300194: earthbound characters-alpha_97
+    21300196: earthbound characters-alpha_98
+    21300198: earthbound characters-alpha_99
+    21300200: earthbound characters-alpha_100
+    21300202: earthbound characters-alpha_101
+    21300204: earthbound characters-alpha_102
+    21300206: earthbound characters-alpha_103
+    21300208: earthbound characters-alpha_104
+    21300210: earthbound characters-alpha_105
+    21300212: earthbound characters-alpha_106
+    21300214: earthbound characters-alpha_107
+    21300216: earthbound characters-alpha_108
+    21300218: earthbound characters-alpha_109
+    21300220: earthbound characters-alpha_110
+    21300222: earthbound characters-alpha_111
+    21300224: earthbound characters-alpha_112
+    21300226: earthbound characters-alpha_113
+    21300228: earthbound characters-alpha_114
+    21300230: earthbound characters-alpha_115
+    21300232: earthbound characters-alpha_116
+    21300234: earthbound characters-alpha_117
+    21300236: earthbound characters-alpha_118
+    21300238: earthbound characters-alpha_119
+    21300240: earthbound characters-alpha_120
+    21300242: earthbound characters-alpha_121
+    21300244: earthbound characters-alpha_122
+    21300246: earthbound characters-alpha_123
+    21300248: earthbound characters-alpha_124
+    21300250: earthbound characters-alpha_125
+    21300252: earthbound characters-alpha_126
+    21300254: earthbound characters-alpha_127
+    21300256: earthbound characters-alpha_128
+    21300258: earthbound characters-alpha_129
+    21300260: earthbound characters-alpha_130
+    21300262: earthbound characters-alpha_131
+    21300264: earthbound characters-alpha_132
+    21300266: earthbound characters-alpha_133
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthbound characters-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 188
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 188
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 159
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 159
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 159
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 159
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 130
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 102
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_76
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_77
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 102
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 102
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 74
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_86
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 74
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_88
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_89
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_90
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 74
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_92
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_93
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 74
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_95
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 74
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_96
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 74
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_98
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 74
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_99
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_100
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_101
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_103
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 32
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_105
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_109
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 32
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 32
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 32
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 32
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_115
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 32
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_116
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 32
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_117
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 32
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_119
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_120
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_123
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_124
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_125
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_126
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_127
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_130
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_132
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthbound characters-alpha_133
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
